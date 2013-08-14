@@ -1,18 +1,18 @@
 Week	Lessons	Topic	Comments
-35	4	Intro: OSI Reference Model: L1	Interface-, connector- and cable-types. IEEE standards.. LAN Technologies (Star, Bus etc.)	 
-36	4	Intro: OSI Reference Model: L2	MAC, LLC, ARP, RARP, PPP, IEEE, Standards (MPLS, ATM?)	 
-37	4	Intro: OSI Reference Model: L3	IPv4, Intro to IPv6, (IPX?), 4	Intro to Unicast, Multicast, Anycast, Broadcast, Subnetting, ICMP, VLSM etc.	 
-38	4	Intro: OSI Reference Model: L4	TCP, UDP, RTP, RTCP, Ports, 3-Way Handshake, (SCTP, RPX?)…..	 
-39	4	Intro: OSI Reference Model: L5, L6 & L7	"Introduce the last 3 OSI Layers (Session, Presentation & Application) called ""the Application Layer"" in the DOD TCP model."	 
-40	4	Intro: Routing/Switching/IPv4	High-Level Routing, Distance Vector and Link State Protocols, VLAN, IPv4 implementation, CIDR.	 
-41	4	Intro: Routing/Switching	High-Level Routing, OSPF, IS-IS, VLAN-Trunking, IPv4 & 6, Project Dokumentation, Introduction to BGP and the Internet. Explain Route Distribution. HSRP/VRRP	 
-43	4	Chapter 3 - Cabling and Topology, Chapter 6 - Installing a Physical Network	"Collecting both chapters in the subject ""Structured Cabling Systems"" incl. Standards (TIA/EIA). PDS."	 
-44	4	Chapter 4 - Ethernet Basics, Chapter 5 - Modern Ethernet	CSMA/CD, STP, IEEE Standards (802.xx, LAN, MAN). Limitations.	 
-45	4	Chapter 4 - Ethernet Basics, Chapter 5 - Modern Ethernet	CSMA/CD, STP, IEEE Standards (802.xx, LAN, MAN). Limitations.	 
-46	4	"Chapter 7 - TCP IP Basics, Chapter 13 - ""IPv6 Basics"" only"	IPv4, Unicast, Multicast, Broadcast, Anycast, Subnetting, ICMP, DHCP, ARP etc. Define the 5 classes of IP Addresses (A, B, C, D & E).	 
-47	4	Chapter 8 - The Wonderful World of Routing	Specific on OSPF & IS-IS (incl. trouble-shooting), Route Distribution, Dynamic & Static Routing. HSRP/VRRP. Briefly touch on the Path-State Protocol BGP (iBGP & eBGP). HDLC, PDH/SDH/SONET.	 
-48	4	Project Network Start-up	Intro to CLI on Routers/Switches.  Basic config. of VLAN, Ethernet. and Serial Intefaces. Introduction to the Project and required mandatory documentation (HLD, LLD). 	 
-49	4	Project Network	. 	 
+35	4	Intro: OSI Reference Model: L1	Interface-, connector- and cable-types. IEEE standards. LAN Technologies (Star, Bus etc.)
+36	4	Intro: OSI Reference Model: L2	MAC, LLC, ARP, RARP, PPP, IEEE, Standards (MPLS, ATM?)
+37	4	Intro: OSI Reference Model: L3	IPv4, Intro to IPv6, (IPX?), 4	Intro to Unicast, Multicast, Anycast, Broadcast, Subnetting, ICMP, VLSM etc.
+38	4	Intro: OSI Reference Model: L4	TCP, UDP, RTP, RTCP, Ports, 3-Way Handshake, (SCTP, RPX?).
+39	4	Intro: OSI Reference Model: L5, L6 & L7	"Introduce the last 3 OSI Layers (Session, Presentation & Application) called the Application Layer in the DOD TCP model.
+40	4	Intro: Routing/Switching/IPv4	High-Level Routing, Distance Vector and Link State Protocols, VLAN, IPv4 implementation, CIDR.
+41	4	Intro: Routing/Switching	High-Level Routing, OSPF, IS-IS, VLAN-Trunking, IPv4 & 6, Project Dokumentation, Introduction to BGP and the Internet. Explain Route Distribution. HSRP/VRRP
+43	4	Chapter 3 - Cabling and Topology, Chapter 6 - Installing a Physical Network	Collecting both chapters in the subject Structured Cabling Systems incl. Standards (TIA/EIA). PDS.
+44	4	Chapter 4 - Ethernet Basics, Chapter 5 - Modern Ethernet	CSMA/CD, STP, IEEE Standards (802.xx, LAN, MAN). Limitations.
+45	4	Idem	Idem
+46	4	Chapter 7 - TCP IP Basics, Chapter 13 - IPv6 Basics only"	IPv4, Unicast, Multicast, Broadcast, Anycast, Subnetting, ICMP, DHCP, ARP etc. Define the 5 classes of IP Addresses (A, B, C, D & E).
+47	4	Chapter 8 - The Wonderful World of Routing	Specific on OSPF & IS-IS (incl. trouble-shooting), Route Distribution, Dynamic & Static Routing. HSRP/VRRP. Briefly touch on the Path-State Protocol BGP (iBGP & eBGP). HDLC, PDH/SDH/SONET.
+48	4	Project Network Start-up	Intro to CLI on Routers/Switches.  Basic config. of VLAN, Ethernet. and Serial Intefaces. Introduction to the Project and required mandatory documentation (HLD, LLD).
+49	4	Project Network	.
 50	4	Project Network	.
 51	4	Project Network	.
 2	4	Repetition	.
