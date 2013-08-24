@@ -1,14 +1,14 @@
-Course	Teacher	ECTS	Weeks	Lessons
-Intro	SUN	0	35	6
-Communication	PETH	2	35-41,43	4
-Mathematics	HHAL	2.5	35-41,43	6
-Project lego	PDA	0.5	35	6
-Project lego	PDA	0.5	36	8
-Project lego	MON	0.5	35	6
-Project lego	MON	0.5	36	10
-Interface	VL	2	37-39	8
-Project interface	PSS	2	37-39	10
-Datacom	PDA	2	40-41,43	8
-Project network	MON	2	40-41,43	10
-Study club	-	0	36-41,43	3
+Course	Teacher	ECTS	Weeks	Lessons	Link
+Intro	SUN	0	35	6	.
+Communication	PETH	2	35-41,43	4	http://fronter.com/eal/links/files.phtml/5218d56ab37c1.39571099$1048933158$/Communication/subjectplan+Com+2013introversion2.docx
+Mathematics	HHAL	2.5	35-41,43	6	http://fronter.com/eal/links/files.phtml/39571099$845595678$/Mathematics/Subject+plan/Math+subject+plan+A2013.pdf
+Project lego	PDA	0.5	35	6	http://fronter.com/eal/links/files.phtml/39571099$548107012$/Project+Lego/Project+plan/ITET1+Project+LEGO+Project+plan.pdf
+Project lego	PDA	0.5	36	8	.
+Project lego	MON	0.5	35	6	.
+Project lego	MON	0.5	36	10	.
+Interface	VL	2	37-39	8	http://fronter.com/eal/links/files.phtml/39571099$153650823$/Interface/Interface+intro+1.sem.+E2012.pdf
+Project interface	PSS	2	37-39	10	http://fronter.com/eal/links/files.phtml/39571099$548107012$/Project+Interface/Project+plan/Project+Interface+1.0.pdf
+Datacom	PDA	2	40-41,43	8	.	
+Project network	MON	2	40-41,43	10	.
+Study club	-	0	36-41,43	3	.
 
