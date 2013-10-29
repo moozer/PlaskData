@@ -1,10 +1,6 @@
-date: 2013-07-04
+date: 2013-10-29
 author: Morten Bo Nielsen
 email: mon@eal.dk
-status: Handind date are TBD
 
-Mandatory hand-ins:
+Hand-ins are to be turned in on fronter. Presentations will be scheduled in class.
 
-* Miniproject report
-
-Presentations and exercises must be turned in before deadline. The presentations will be scheduled in class.
