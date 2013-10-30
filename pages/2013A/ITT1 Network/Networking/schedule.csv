@@ -1,13 +1,13 @@
 Week	Lessons	Topic	Comments
 44	4	Introduction to networking (again)	Chap. 2 Network models
-45	4	.	Chap. 3 Cabling and topology and chap. 6 installing a physical network
-46	4	.	Chap. 4 Ethernet basics and chap. 5 Modern ethernet, Scapy client/server
+45	4	Physical LAN	Chap. 3 Cabling and topology and chap. 6 installing a physical network. Sniffing.
+46	4	Layer 2	Chap. 4 Ethernet basics and chap. 5 Modern ethernet, Scapy client/server exercise
 47	4	idem	idem
-48	4	.	Chap. 7 TCP/IP basics
+48	4	IP and TCP	Chap. 7 TCP/IP basics, Treasure hunt wireshark exercise
 49	4	idem	idem
-50	4	.	Chap. 8 Routing
+50	4	Routing	Chap. 8 Routing
 51	4	idem	idem
-2	4	.	Chap. 20 Trouble shooting, Project network problems discussed
+2	4	Recap (and more)	Chap. 20 Trouble shooting, Project network problems discussed
 3	4	idem	idem
 
 

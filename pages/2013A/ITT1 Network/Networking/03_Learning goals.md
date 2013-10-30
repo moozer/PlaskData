@@ -1,12 +1,12 @@
-date: 2013-08-07
+date: 2013-10-29
 author: Morten Bo Nielsen
 email: mon@eal.dk
-status: Very much draft
 
 Having completed this course the student will be able to
 
-* set up a single subnet computer network
-* do structured troubleshooting
-* select, install and use basic server software
-* use CLI for network related tasks
-* document networks, both in relation to implementation and troubleshooting
+* evaluate common LAN networking hardware, i.e. wireless, cabled, fibre, switches, routers, etc.
+* read and understand network package information
+* use common networking tools
+* understand and use fundamental network protocols
+
+
