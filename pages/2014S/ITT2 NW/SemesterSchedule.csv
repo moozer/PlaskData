@@ -3,12 +3,13 @@ Spring break	-	0	8	37	exclude
 InnoEvent	-	0	11	37	.
 Easter	-	0	16	37	exclude
 Databases and programming	PDA	5.0	5-7,9-10,12-15,17-25	4	.
-Networking	PDA	5	5-7,9-10,12-15,17-25	4	.
-Business	LEAN	5	5-7,9-10,12-15,17-25	4	.
+Networking	PETH	5	5-7,9-10,12-15,17-25	4	.
+Business	PETH	5	5-7,9-10,12-15,17-25	4	.
 System development	MON	2.5	5-7,9-10,12-15	4	.
-Project HID	MON	2.5	5-7,9-10,12-15	8	.
-IT security	MON	2.5	17-25	4	.
-Project firewall	PETH	2.5	17-25	8	.
+Project HID	MON	2.5	17-25	8	.
+IT security	PETH	2.5	17-25	4	.
+Project firewall	PETH	2.5	5-7,9-10,12-15	8	.
 Study club	NN	0	5-7,9-10,12-15,17-25	3	.
 SS1	PDA	2.5	17-25	4	.
 Linux	MON	2.5	5-7,9-10,12-15	4	.
+
