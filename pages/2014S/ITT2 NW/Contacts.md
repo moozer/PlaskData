@@ -12,5 +12,5 @@ Teacher may be contacted either by email or directly at in the teacher's staff r
 Other functions:
 
 * Student councellor: Susanne Skov Nielsen - <a href="mailto:sun@eal.dk">sun@eal.dk</a>
-* Department secretary: Ina Nielsen - <a href="mailto:inn@eal.dk">inn@eal.dk</a>
+* Department secretary: Camilla Graversgaard Hansen - <a href="mailto:cgha@eal.dk">cgha@eal.dk</a>
 * Head of department: Jørn Vesterdal - <a href="mailto:jove@eal.dk">jove@eal.dk</a>
