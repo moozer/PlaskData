@@ -1,7 +1,5 @@
-date: 2013-01-23
 author: Morten Bo Nielsen
 email: mon@eal.dk
-sectionname: Learning goals
 
 Having completed this course the student must be able to
 

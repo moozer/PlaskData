@@ -1,10 +1,8 @@
-date: 2013-01-23
 author: Morten Bo Nielsen
 email: mon@eal.dk
-sectionname: Introduction
 
 The course is the continuation of system design in first semester, where the basics of project design and some basic diagrams were introduced.
 
-This semester we will reiterate on structure system design and present more design tools.
+This semester we will reiterate on structured system design and present more development tools.
 
-The course is worth 1½ ECTS. 
+The course is worth 2½ ECTS. 
