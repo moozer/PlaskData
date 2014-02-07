@@ -10,3 +10,6 @@ Having completed this course the student must be able to
 * Create simple sequence diagrams to describe and present technical solutions
 * Create simple communication diagrams to describe and present technical solutions
 * Create simple class diagrams to describe and present technical solutions
+* Write technical documentation
+
+
