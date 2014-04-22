@@ -1,7 +1,5 @@
-date: 2013-04-16
 author: Morten Bo Nielsen
 email: mon@eal.dk
-sectionname: Learning goals
 
 Having completed this course the student must be able to
 
@@ -13,5 +11,4 @@ Having completed this course the student must be able to
 * Adapt python code found on the internet
 * Locate and use relevant information/documentation and sources from the Internet.
 * Develop technical documentation based on predefined requirements.
-
 
