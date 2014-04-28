@@ -1,10 +1,11 @@
 Week	Lessons	Topic	Comments
-16	2	Introduction	Chapter 2
-17	2	Attacks, threads and mitigation	Chapters 3 and 17, NIST SP 800-30
-18	2	idem	-
-19	2	idem	Hand-in question 1
-20	2	Securing infrastructure	Chapter 7, 8 and 11
-21	2	idem	Hand-in question 2
-22	2	AAA and RADIUS	Chapters 9
-23	2	idem	-
-24	2	idem	Hand-in question 3
+17	5	Introduction, Risk assessment	NIST 800-30 rev. 1
+18	5	Intrusion detection system	Chapter 11
+19	5	Wireless security	Chapter 10
+20	5	Encryption of storage	.
+21	5	PGP and emails	Chapter 14
+22	-	-	Holiday
+23	5	PKI and certificates	Chapter 5
+24	5	Server services and SSL	Chapter 15
+25	5	Authentication, autorization and accounting	Chapter 9
+

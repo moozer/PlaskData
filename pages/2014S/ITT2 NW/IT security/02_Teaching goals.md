@@ -1,7 +1,5 @@
-date: 2013-01-22
 author: Morten Bo Nielsen
 email: mon@eal.dk
-sectionname: Teaching goals
 
 The students has acquire knowledge on 
 
